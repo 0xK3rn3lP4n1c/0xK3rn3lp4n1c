@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## My name is Ömer Kaan Coşkun
+
+🌱 I’m currently learning C++ and Python 
+
+
+
 <!--
 **Kazuto-Kawahara/Kazuto-Kawahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
