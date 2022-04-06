@@ -2,8 +2,6 @@
 
 ## My name is Ömer Kaan Coşkun
 
-<i class="fa-solid fa-browser"></i>
-<i class="fa-brands fa-linkedin"></i>
 
 
 🌱 I’m currently learning C++ and Python 
