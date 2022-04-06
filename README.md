@@ -2,10 +2,9 @@
 
 ## My name is Ömer Kaan Coşkun
 
-<p align="center">
-  <a href="http://omerkaancoskun.com"><i class="fa-solid fa-browser"></i></a>
-  <a href="https://www.linkedin.com/in/0xm3rk44n"><i class="fa-brands fa-linkedin"></i></a>
-</p>
+<i class="fa-solid fa-browser"></i>
+<i class="fa-brands fa-linkedin"></i>
+
 
 🌱 I’m currently learning C++ and Python 
 
